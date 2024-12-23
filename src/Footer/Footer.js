@@ -30,32 +30,32 @@ const Footer = () => {
           <h3>Follow Us</h3>
           <div className="social-media">
             <a
-              href="https://www.facebook.com/kidschool"
+              href="https://www.facebook.com/abadh.bibari/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Facebook
             </a>
             <a
-              href="https://www.instagram.com/kidschool"
+              href="https://www.instagram.com/handwritinganalystabadh/"
               target="_blank"
               rel="noopener noreferrer"
             >
               Instagram
             </a>
             <a
-              href="https://twitter.com/kidschool"
+              href="https://www.youtube.com/@kidscareschool"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Twitter
+              Youtube
             </a>
           </div>
         </div>
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; 2024 Kids School. All Rights Reserved.</p>
+        <p>&copy; 2024 Kids Care Jamui. All Rights Reserved.</p>
         <a
           href="https://www.instagram.com/im_jaisingh?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
           target="_blank"
